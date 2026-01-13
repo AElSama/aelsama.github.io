@@ -85,8 +85,8 @@ Analyses d'impact météorologique sur consommation électrique. Time series for
 
 **Disponible pour missions courtes (2-10 jours) ou accompagnements récurrents**
 
-📧 Email: [ton.email@example.com](mailto:ab.elsamalouty@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/abderrahman-e-0a204a147/))  
+📧 [Email:] (mailto:ab.elsamalouty@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/abderrahman-e-0a204a147/)
 ⚡ [Malt](https://www.malt.fr/profile/abderrahmanelsy)
 
 **TJM:** 375-450€/jour | Remote & Paris
