@@ -63,18 +63,18 @@ Analyses d'impact météorologique sur consommation électrique. Time series for
 
 ### 💼 Services pour Labos & Entreprises
 
-#### 🔬 Consulting Ponctuel (500-2000€)
+#### 🔬 Consulting Ponctuel 
 - Support méthodologique statistique
 - Analyses de données complètes (Python/R)
 - Review de code & debugging
 - Conseil choix de modèle
 
-#### 🛠️ Développement (2000-5000€)
+#### 🛠️ Développement 
 - Dashboards interactifs sur mesure
 - Pipelines d'analyse automatisés
 - Packages R/Python personnalisés
 
-#### 🎓 Formation (1000-3000€)
+#### 🎓 Formation 
 - Python/R pour chercheurs
 - Statistiques avancées appliquées
 - Machine Learning pratique
